@@ -40,5 +40,3 @@ scrolls-easing: Easing function: ‘ease-in’, ‘ease-out’, ‘ease-in-out'(
   ...
 </div>
 ```
-
-[Source](https://www.cssscript.com/fade-scroll-in-element/)
