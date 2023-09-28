@@ -1,3 +1,6 @@
+[Source](https://www.jqueryscript.net/form/jQuery-International-Telephone-Input-With-Flags-Dial-Codes.html)
+[Official Repo](https://github.com/jackocnr/intl-tel-input)
+
 Description:
 International Telephone Input is a useful JavaScript jQuery plugin that turns the standard input into an International Telephone Input with a national flag drop down list.
 When clicking the dropdown list, it lists all the countries and their international dial codes next to their flags. Ideal for international visitors of your website.
@@ -149,5 +152,3 @@ input.addEventListener("close:countrydropdown", function() {
   // triggered when the user closes the dropdown
 });
 ```
-
-[Source](https://www.jqueryscript.net/form/jQuery-International-Telephone-Input-With-Flags-Dial-Codes.html)
