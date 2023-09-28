@@ -1,3 +1,5 @@
+# [![Official Repo](https://raw.githubusercontent.com/Nihilnia/GithubBadges/e14078343be44292c313b478de702e34fcdf556e/Github.svg)](https://github.com/S0npaRi11/scrolls) [![Source](https://raw.githubusercontent.com/Nihilnia/GithubBadges/e14078343be44292c313b478de702e34fcdf556e/HTML.svg)](https://www.cssscript.com/fade-scroll-in-element/)
+
 Description:
 A lightweight and performant scroll animation library for fading and scrolling in elements when they appear in the viewport.
 
@@ -38,5 +40,3 @@ scrolls-easing: Easing function: ‘ease-in’, ‘ease-out’, ‘ease-in-out'(
   ...
 </div>
 ```
-
-[Source](https://www.cssscript.com/fade-scroll-in-element/)
