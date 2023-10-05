@@ -1,4 +1,4 @@
-# [![Official Repo](https://raw.githubusercontent.com/Nihilnia/GithubBadges/e14078343be44292c313b478de702e34fcdf556e/Github.svg)](https://github.com/michalsnik/aos) [![Source](https://raw.githubusercontent.com/Nihilnia/GithubBadges/e14078343be44292c313b478de702e34fcdf556e/HTML.svg)](https://htmlstream.com/preview/front-v3.2/documentation/aos.html)
+# [![Official Repo](https://raw.githubusercontent.com/Nihilnia/GithubBadges/e14078343be44292c313b478de702e34fcdf556e/Github.svg)](https://github.com/michalsnik/aos) [![Source](https://raw.githubusercontent.com/Nihilnia/GithubBadges/e14078343be44292c313b478de702e34fcdf556e/HTML.svg)](https://michalsnik.github.io/aos/)
 
 Description:
 
